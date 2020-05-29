@@ -1,4 +1,7 @@
+// Решение конфликта
+
 ﻿// Ветвь master
+// Ветвь branch1
 using System;
 using System.Collections.Generic;
 using System.IO;
